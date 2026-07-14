@@ -1,20 +1,49 @@
-# Hema Portfolio Starter
+# Hema Nikhitha Edupuganti Portfolio
 
-This is a Vite + React portfolio starter built from your resume.
+Personal software engineering portfolio built with React and Vite.
 
-## Run locally
+## Live Website
+[View Portfolio](https://hema-nikhitha-edupuganti-portfolio.vercel.app)
 
+## About This Repository
+This repository contains the source code for my personal portfolio website. It showcases my background in backend engineering, scalable APIs, cloud-based development, machine learning projects, and full-stack development.
+
+The portfolio is designed to present my work in a clean, modern, and interactive format for recruiters, hiring managers, collaborators, and professional connections.
+
+## Features
+- Interactive landing card
+- Smooth single-page portfolio navigation
+- Professional hero section
+- Skills, experience, projects, and education sections
+- Resume download option
+- Contact links for email, phone, and LinkedIn
+- Responsive design for desktop and mobile
+
+## Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS3
+- HTML5
+
+## Project Structure
+- `src/App.jsx` — main portfolio content
+- `src/index.css` — styling and layout
+- `public/` — images, resume, and static assets
+
+## Run Locally
 ```bash
 npm install
 npm run dev
 ```
 
-## Files to edit first
+## Build for Production
+```bash
+npm run build
+```
 
-- `src/App.jsx` -> content
-- `src/index.css` -> styling
+## Purpose
+This portfolio serves as a central place to present my technical background, engineering projects, and professional experience in a way that is easy to explore and visually engaging.
 
-## Notes
-
-- Replace the LinkedIn `#` placeholder with your actual profile URL.
-- You can later add images, animations, resume download button, and project detail pages.
+## Contact
+- Email: hnedupuganti1@gmail.com
